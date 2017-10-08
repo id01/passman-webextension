@@ -11,3 +11,6 @@ Move this folder to the correct location on the server (the directory containing
 Generate webextension on server by executing "python create_webextension.py" and following the prompts.  
 Install webextension on browser.  
 Zip it into a .xpi if you want.  
+
+## Dependencies
+Chrome or Firefox  
