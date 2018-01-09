@@ -1,5 +1,6 @@
 ## Password Manager
 Webextension Submodule  
+NOTE: This module has been discontinued!  
 
 ## Description
 This is a (no longer so) simple password manager that runs on mySQL.  
